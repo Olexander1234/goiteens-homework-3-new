@@ -1,9 +1,6 @@
-.web{
-color: crimson;
+a[href=https]{
+    color: red;
 }
-.web1{
+ul+p{
     font-size: 24px;
-}
-.img{
-    
 }
